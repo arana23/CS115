@@ -5,6 +5,8 @@ Created on Nov 13, 2018
 @author: smccart3 -  Shay M
 
 Pledge: I pledge my honor that I have abided by the Stevens Honor System
+
+Generate Music Reccomendations based on uses
 '''
 
 
